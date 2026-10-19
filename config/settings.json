@@ -1,0 +1,16 @@
+{
+  "required_columns": [
+    "order_id",
+    "order_date",
+    "customer_id",
+    "region",
+    "product",
+    "category",
+    "quantity",
+    "unit_price",
+    "discount"
+  ],
+  "date_format": "%Y-%m-%d",
+  "output_directory": "data/processed",
+  "log_file": "reports/pipeline.log"
+}

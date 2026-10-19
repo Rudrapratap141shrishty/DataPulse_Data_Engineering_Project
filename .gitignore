@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+data/processed/*
+!data/processed/.gitkeep
+reports/*
+!reports/.gitkeep
+.DS_Store
